@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DDiegoAAraujo
 - 👀 I’m interested in Frontend and Mobile development
-- 🌱 I’m currently learning JavaScript, NodeJS, TypeScript, ReactJS, React Native
+- 🌱 I’m currently learning JavaScript, NodeJS, TypeScript, ReactJS
 - 📫 How to reach me https://www.linkedin.com/in/diegoaraujo-/
 
 <!---
